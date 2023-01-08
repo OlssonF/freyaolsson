@@ -3,16 +3,18 @@ project:
   output-dir: docs
 
 website:
-  title: "freyaolsson_com"
+  title: "Freya Olsson"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - publications.qmd
+  
 
 format:
   html:
-    theme: cosmo
+    theme: yeti
     css: styles.css
     toc: true
 
