@@ -23,34 +23,3 @@ about:
 I am currently a postdoctoral researcher at Virginia Tech following the completion of my PhD in January 2022. I am passionate about understanding broad-scale ecosystem functioning and abiotic-biotic interactions through the integration of process-based modelling and field measurements to better manage ecosystems, especially lakes and reservoirs.
 
 In my current role, I am leveraging modelling frameworks and sensor networks to develop short-term and long-term forecasts of freshwater habitats. I work with range of statistical and process-based models to forecast conditions in freshwater sites across the continental US and champion the aquatics EFI-NEON Forecast Challenge that uses these data. Read more about the project [here](https://www.ecoforecastprojectvt.org/).
-
-## Education
-
-### UK Centre for Ecology and Hydrology & Lancaster University, UK
-
-PhD in Environmental Science \| October 2017 - January 2022
-
-Thesis title: Impact of water residence time on lake thermal structure: implications for management and
-climate change
-
-Funding: ENVISION Doctoral Training Partnership (Natural Environment Research Council - NERC)
-Supervisory Committee: Dr E Mackay, Dr I Jones, Prof. P Barker, Dr B Spears, Dr R Hall, Dr S Davies
-
-### Durham University, UK
-
-BSc (Hons) Biology-Geography Joint Honors (within Natural Sciences) - 1st Class \| October 2013 - June 2016
-
-## Research Experience
-
-#### Research assistant -- Lancaster University, UK \| Apr 2022 - May 2022
-
-#### Laboratory assistant - Lancaster University, UK \| Nov 2021 - Feb 2022
-
-#### Natural England CASE partnership -- UKCEH \| Oct 2017 - Jan 2021
-
-Collaborative Award in Science and Engineering (CASE) project to produce an evidence base review of lake hydrology, synthesizing and critically analyzing scientific literature to provide guidance for Natural England lake managers.
-
-#### Research assistant - University of Cambridge, UK \| Mar - Sep 2017
-
-Hosted at the Living Centre, Laurentian University, Ontario researching the effect of terrestrial carbon inputs on lake foodwebs. Responsibilities included field sampling, laboratory analysis of water samples (metals and nutrients),
-identification of zooplankton samples and data input.
