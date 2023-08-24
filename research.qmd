@@ -1,0 +1,13 @@
+---
+title: "Research Interests"
+editor: visual
+---
+
+My research interests are broadly in understanding the interactions between abiotic factors and ecosystem functioning, especially of lakes and reservoirs. I am interested in how we can use modelling and field data to better understand the functioning of these systems and better improve their management now and in the future.
+
+Some of my main interests are:
+
+- interaction of lake physics on chemistry and biology
+- impact of inflows on lakes
+- integrating data and models to improve understanding
+- near-term lake forecasting
