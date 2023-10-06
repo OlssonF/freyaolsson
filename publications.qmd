@@ -5,16 +5,31 @@ editor: visual
 
 ### Journal articles
 
+**Olsson, F.**, Moore, T. N., Carey, C. C., Breef-Pilz, A., & Thomas, R. Q., 2023. A multi-model ensemble of empirical and process-based models improves the predictive skill of near-term lake forecasts. ESS Open Archive Preprint. <https://doi.org/10.22541/essoar.169049097.75300247/v1>
+
+Lewis, A. S. L., Breef-Pilz, A., Howard, D., Lofton, M. E., **Olsson, F.**, Wander,. H. L., Wood, C. E., Schreiber, M., Carey, C. C., Reservoir drawdown highlights the emergent effects of water level change on reservoir physics, chemistry, and biology. ESS Open Archive. Preprint <https://doi.org/10.22541/essoar.169592581.18728999/v1>
+
 **Olsson, F.**, Mackay, E.B., Barker, P., Davies, S., Hall, R., Spears, B., Exley, G., Thackeray, S.J., Jones, I.D., 2022. Can reductions in water residence time be used to disrupt seasonal stratification and control internal loading in a eutrophic monomictic lake? J. Environ. Manage. <https://doi.org/10.1016/j.jenvman.2021.114169>
 
 **Olsson, F.**, Mackay, E.B., Moore, T., Barker, P., Davies, S., Hall, R., Spears, B., Jones, I.D., 2022. Annual water residence time effects on thermal structure: A potential lake restoration measure? J. Environ. Manage. 314. <https://doi.org/10.1016/j.jenvman.2022.115082>
 
-**Olsson, F.**, Moore, T. N., Carey, C. C., Breef-Pilz, A., & Thomas, R. Q., 2023. A multi-model ensemble of empirical and process-based models improves the predictive skill of near-term lake forecasts. ESS Open Archive Preprint. <https://doi.org/10.22541/essoar.169049097.75300247/v1>
-
 Moore, T., Mesman, J., Ladwig, R., Feldbauer, J., **Olsson, F.**, Pilla, R.M., Shatwell, T., Venkiteswaran, J.J., Delany, A.D., Dugan, H., Rose, K.C., Read, J.S., 2021. LakeEnsemblR: An R package that facilitates ensemble modelling of lakes. Environmental Software & Modelling. <https://doi.org/10.1016/j.envsoft.2021.105101>
 
-Thomas, R.Q., C. Boettiger, C.C. Carey, M.C. Dietze, L.R. Johnson, M.A. Kenney, J.S. Mclachlan, J.A. Peters, E.R. Sokol, J.F. Weltzin, A. Willson, W.M. Woelmer, and **Challenge Contributors**, 2023. The NEON Ecological Forecasting Challenge. Frontiers in Ecology and the Environment, 21(3), 112–113. https://doi.org/10.1002/fee.2616
+Thomas, R.Q., C. Boettiger, C.C. Carey, M.C. Dietze, L.R. Johnson, M.A. Kenney, J.S. Mclachlan, J.A. Peters, E.R. Sokol, J.F. Weltzin, A. Willson, W.M. Woelmer, and **Challenge Contributors**, 2023. The NEON Ecological Forecasting Challenge. Frontiers in Ecology and the Environment, 21(3), 112--113. https://doi.org/10.1002/fee.2616
 
 **Olsson, F.**, Mackay, E.B., Barker, P., Spears, B., Jones, I.D. Dual climate threats of air temperature and inflow change impact the water temperatures of small temperate lakes. In prep for Ambio.
 
 Gray, E., Mackay, E. B., **Olsson, F.**, Jones, I. D. Storm events can counteract atypically high thermal stability induced by climate warming in lakes. In prep.
+
+### Data, code, and software
+
+**Olsson, F.**, Moore, T., Carey, C. C., Breef-Pilz, A., & Thomas, R. Q., 2023. OlssonF/FCRE-forecast-code: A multi-model ensemble of baseline and process-based models improves the predictive skill of near-term lake forecasts: code (v1.0.0). Zenodo. <https://doi.org/10.5281/ZENODO.8172783>
+
+**Olsson, F.**, Moore, T., Carey, C. C., Breef-Pilz, A., & Thomas, R. Q., 2023. A multi-model ensemble of baseline and process-based models improves the predictive skill of near-term lake forecasts: data, forecasts, and scores [dataset]. Zenodo. <https://doi.org/10.5281/ZENODO.8136961>
+
+**Olsson, F.**, Mackay, E. M., Jones, I. D., Barker, P., & Spears, B., 2022. Elterwater inner basin: Physical, ecological and chemical lake measurements, 2018-19 \[dataset\]. NERC EDS Environmental Information Data Centre. <https://doi.org/10.5285/37F17F6C-66F6-454C-BD52-7C601EF20CA2>
+
+**Olsson, F.**, Mackay, E.B., Jones, I.D., Barker, P., Spears, B., 2022. Elterwater inner basin: Estimated inflow discharge and water temperature, 2012-2019 \[dataset\]. NERC EDS Environmental Information Data Centre. <https://doi.org/10.5285/2883aaf1-6148-49cb-904a-d271a028c716>
+
+### Tutorials
+
