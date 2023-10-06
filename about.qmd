@@ -20,6 +20,12 @@ BSc (Hons) Biology-Geography Joint Honors (within Natural Sciences) - 1st Class 
 
 ## Research Experience
 
+#### Postdoctoral research associate -- Virginia Tech \| June 2022 - present
+
++:---------------------------------------------------------------------------------------------------:+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/EcologicalForecastingProject-Logo_Horizontal-Color-VT.jpg){fig-align="left" width="348"} | As part of the Ecological Forecasting Project \@ VT, I have worked on a range of freshwater forecasting projects including using multi-model ensembles to improve lake temperature forecasting, synthesis of the Aquatics theme NEON Forecasting Challenge submissions, and development of a tutorial that guides individuals through a submission to the Forecasting Challenge. |
++-----------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
 #### Research assistant -- Lancaster University, UK \| Apr 2022 - May 2022
 
 #### Laboratory assistant - Lancaster University, UK \| Nov 2021 - Feb 2022
