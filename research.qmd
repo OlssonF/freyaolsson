@@ -7,7 +7,7 @@ My research interests are broadly in understanding the interactions between abio
 
 Some of my main interests are:
 
-- interaction of lake physics on chemistry and biology
-- impact of inflows on lakes
-- integrating data and models to improve understanding
-- near-term lake forecasting
+-   interaction of lake physics on chemistry and biology
+-   impact of inflows on lakes
+-   integrating data and models to improve understanding
+-   near-term lake forecasting
