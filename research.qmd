@@ -11,3 +11,5 @@ Some of my main interests are:
 -   impact of inflows on lakes
 -   integrating data and models to improve understanding
 -   near-term lake forecasting
+
+![](images/fieldsites.png){fig-align="center" width="674"}

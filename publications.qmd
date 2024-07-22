@@ -9,7 +9,7 @@ editor: visual
 
 **Olsson, F.**, Mackay, E. B., Spears, B. M., Barker, P., & Jones, I. D., 2024. Interacting impacts of hydrological changes and air temperature warming on lake temperatures highlight the potential for adaptive management. Ambio. <https://doi.org/10.1007/s13280-024-02015-6>
 
-**Olsson, F.**, Moore, T. N., Carey, C. C., Breef‐Pilz, A., & Thomas, R. Q., 2024. A Multi‐Model Ensemble of Baseline and Process‐Based Models Improves the Predictive Skill of Near‐Term Lake Forecasts. Water Resour. Res., 60(3). <https://doi.org/10.1029/2023WR035901>
+![Conceptual figure of the multi-model ensemble forecasting system developed in from Olsson et al., 2024.](images/WRRconcept.png){fig-alt="Box and arrow diagram of the generation of multi-model ensemble water temperature forecasts" fig-align="center" width="460"}
 
 Howard, D. W., Bentrup, J. A., Richardson, D. C., Lewis, A. S. L., **Olsson, F.**, & Carey, C. C., 2024. Variability in ice cover does not affect annual metabolism estimates in a small eutrophic reservoir. J. Geophys. Res.-Biogeo, 129, e2024JG008057., <https://doi.org/10.1029/2024JG008057>
 
@@ -18,6 +18,8 @@ Lewis, A. S. L., Breef‐Pilz, A., Howard, D. W., Lofton, M. E., **Olsson, F.**,
 Thomas, R.Q., C. Boettiger, C.C. Carey, M.C. Dietze, L.R. Johnson, M.A. Kenney, J.S. Mclachlan, J.A. Peters, E.R. Sokol, J.F. Weltzin, A. Willson, W.M. Woelmer, and **Challenge Contributors**, 2023. The NEON Ecological Forecasting Challenge. Frontiers in Ecology and the Environment, 21(3), 112--113. <https://doi.org/10.1002/fee.2616>
 
 **Olsson, F.**, Mackay, E.B., Barker, P., Davies, S., Hall, R., Spears, B., Exley, G., Thackeray, S.J., Jones, I.D., 2022. Can reductions in water residence time be used to disrupt seasonal stratification and control internal loading in a eutrophic monomictic lake? J. Environ. Manage. <https://doi.org/10.1016/j.jenvman.2021.114169>
+
+![Graphical abstract from Olsson et al., 2022 showing the hypothesised impacts of changes to water residence time on lake water quality](images/graphicalabstract_JEM.jpg){fig-align="center" width="635"}
 
 **Olsson, F.**, Mackay, E.B., Moore, T., Barker, P., Davies, S., Hall, R., Spears, B., Jones, I.D., 2022. Annual water residence time effects on thermal structure: A potential lake restoration measure? J. Environ. Manage. 314. <https://doi.org/10.1016/j.jenvman.2022.115082>
 
@@ -42,3 +44,7 @@ Gray, E., Mackay, E. B., **Olsson, F.**, Jones, I. D. Storm events can counterac
 ### Tutorials
 
 **Olsson, F.**, Boettiger, C., Carey, C. C. Lofton, M. E. Thomas, R. Q., 2023. OlssonF/NEON-forecast-challenge-workshop: EFI NEON Forecast Challenge Workshop (v1.0.0). Zenodo. <https://doi.org/10.5281/zenodo.8316966>
+
+[Virginia Ecoforecast Reservoir Analysis Forecasting Challenge](https://www.ltreb-reservoirs.org/vera4cast/learn-more.html) introductory tutorial video series:
+
+{{< video https://www.youtube.com/watch?v=35Gmzls3rm4&list=PLOv0if66u2-h0dLXknHm9MHtZGEX5kVuu >}}
