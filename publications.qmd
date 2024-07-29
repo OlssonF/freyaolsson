@@ -9,6 +9,8 @@ editor: visual
 
 **Olsson, F.**, Mackay, E. B., Spears, B. M., Barker, P., & Jones, I. D., 2024. Interacting impacts of hydrological changes and air temperature warming on lake temperatures highlight the potential for adaptive management. Ambio. <https://doi.org/10.1007/s13280-024-02015-6>
 
+**Olsson, F.**, Moore, T. N., Carey, C. C., Breef‐Pilz, A., & Thomas, R. Q., 2024. A Multi‐Model Ensemble of Baseline and Process‐Based Models Improves the Predictive Skill of Near‐Term Lake Forecasts. Water Resour. Res., 60(3). <https://doi.org/10.1029/2023WR035901>
+
 ![Conceptual figure of the multi-model ensemble forecasting system developed in from Olsson et al., 2024.](images/WRRconcept.png){fig-alt="Box and arrow diagram of the generation of multi-model ensemble water temperature forecasts" fig-align="center" width="460"}
 
 Howard, D. W., Bentrup, J. A., Richardson, D. C., Lewis, A. S. L., **Olsson, F.**, & Carey, C. C., 2024. Variability in ice cover does not affect annual metabolism estimates in a small eutrophic reservoir. J. Geophys. Res.-Biogeo, 129, e2024JG008057., <https://doi.org/10.1029/2024JG008057>
@@ -19,7 +21,7 @@ Thomas, R.Q., C. Boettiger, C.C. Carey, M.C. Dietze, L.R. Johnson, M.A. Kenney, 
 
 **Olsson, F.**, Mackay, E.B., Barker, P., Davies, S., Hall, R., Spears, B., Exley, G., Thackeray, S.J., Jones, I.D., 2022. Can reductions in water residence time be used to disrupt seasonal stratification and control internal loading in a eutrophic monomictic lake? J. Environ. Manage. <https://doi.org/10.1016/j.jenvman.2021.114169>
 
-![Graphical abstract from Olsson et al., 2022 showing the hypothesised impacts of changes to water residence time on lake water quality](images/graphicalabstract_JEM.jpg){fig-align="center" width="635"}
+![Graphical abstract from Olsson et al., 2022 showing the hypothesised impacts of changes to water residence time on lake water quality.](images/graphicalabstract_JEM.jpg){fig-align="center" width="635"}
 
 **Olsson, F.**, Mackay, E.B., Moore, T., Barker, P., Davies, S., Hall, R., Spears, B., Jones, I.D., 2022. Annual water residence time effects on thermal structure: A potential lake restoration measure? J. Environ. Manage. 314. <https://doi.org/10.1016/j.jenvman.2022.115082>
 
