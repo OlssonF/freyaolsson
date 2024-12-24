@@ -4,15 +4,17 @@ title: "About"
 
 ## Education
 
-### UK Centre for Ecology and Hydrology & Lancaster University, UK
+#### **UK Centre for Ecology and Hydrology & Lancaster University, UK**
 
 PhD in Environmental Science \| October 2017 - January 2022
 
 Thesis title: Impact of water residence time on lake thermal structure: implications for management and climate change
 
-Funding: ENVISION Doctoral Training Partnership (Natural Environment Research Council - NERC) Supervisory Committee: Dr E Mackay, Dr I Jones, Prof. P Barker, Dr B Spears, Dr R Hall, Dr S Davies
+Funding: ENVISION Doctoral Training Partnership (Natural Environment Research Council - NERC)
 
-### Durham University, UK
+Supervisory Committee: Dr. E Mackay, Dr. I Jones, Prof. P Barker, Dr. B Spears, Dr. R Hall, Dr. S Davies
+
+#### **Durham University, UK**
 
 BSc (Hons) Biology-Geography Joint Honors (within Natural Sciences) - 1st Class \| October 2013 - June 2016
 
@@ -20,22 +22,22 @@ BSc (Hons) Biology-Geography Joint Honors (within Natural Sciences) - 1st Class 
 
 ## Research Experience
 
-#### Postdoctoral research associate -- Virginia Tech \| June 2022 - present
+#### Postdoctoral researcher -- Virginia Tech \| June 2022 - present
 
-|                                                                 |                                                                                                                                                                                                                                                                                                                                                                                 |
-|:---------------------------------------------------------------:|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![](images/VTCEF.jpg){fig-align="left" width="159" height="73"} | As part of the VT Center for Ecosystem Forecasting, I have worked on a range of freshwater forecasting projects including using multi-model ensembles to improve lake temperature forecasting, synthesis of the Aquatics theme NEON Forecasting Challenge submissions, and development of a tutorial that guides individuals through a submission to the Forecasting Challenge. |
+|  |  |
+|:-----------------:|-----------------------------------------------------|
+| ![](images/VTCEF.jpg){fig-align="left" width="159" height="73"} | As part of the VT Center for Ecosystem Forecasting, I have worked on a range of freshwater forecasting projects including [using multi-model ensembles to improve lake temperature forecasting](https://doi.org/10.1029/2023WR035901), [large-scale synthesis of >100,000 forecasts](http://dx.doi.org/10.22541/essoar.171458144.44104603/v2) from the Aquatics theme of the NEON Forecasting Challenge (in press), and [development of forecasting tutorials](publications.html#tutorials) that guide individuals through a the development and implementation of simple forecasting workflows. |
 
 #### Research assistant -- Lancaster University, UK \| Apr 2022 - May 2022
 
-#### Laboratory assistant - Lancaster University, UK \| Nov 2021 - Feb 2022
+#### Laboratory assistant – Lancaster University, UK \| Nov 2021 - Feb 2022
 
 #### Natural England CASE partnership -- UKCEH \| Oct 2017 - Jan 2021
 
 Collaborative Award in Science and Engineering (CASE) project to produce an evidence base review of lake hydrology, synthesizing and critically analyzing scientific literature to provide guidance for Natural England lake managers.
 
-#### Research assistant - University of Cambridge, UK \| Mar - Sep 2017
+#### Research assistant – University of Cambridge, UK \| Mar - Sep 2017
 
-Hosted at the Living Centre, Laurentian University, Ontario researching the effect of terrestrial carbon inputs on lake foodwebs. Responsibilities included field sampling, laboratory analysis of water samples (metals and nutrients), identification of zooplankton samples and data input.
+Based at the Living with Lakes Centre, Laurentian University, Ontario researching the effect of terrestrial carbon inputs on lake foodwebs. Responsibilities included field sampling, laboratory analysis of water samples (metals and nutrients), identification of zooplankton samples and data input.
 
 ------------------------------------------------------------------------
