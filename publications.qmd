@@ -13,7 +13,9 @@ editor: visual
 
 ![Conceptual figure of the multi-model ensemble forecasting system from Olsson et al., 2024.](images/WRRconcept.png){.lightbox fig-alt="Box and arrow diagram of the generation of multi-model ensemble water temperature forecasts" fig-align="center" width="460"}
 
-Howard, D. W., Bentrup, J. A., Richardson, D. C., Lewis, A. S. L., **Olsson, F.**, & Carey, C. C., 2024. Variability in ice cover does not affect annual metabolism estimates in a small eutrophic reservoir. J. Geophys. Res.-Biogeo, 129, e2024JG008057., <https://doi.org/10.1029/2024JG008057>
+Howard, D. W., Bentrup, J. A., Richardson, D. C., Lewis, A. S. L., **Olsson, F.**, & Carey, C. C., 2024. Variability in ice cover does not affect annual metabolism estimates in a small eutrophic reservoir. J. Geophys. Res.-Biogeo., 129, e2024JG008057., <https://doi.org/10.1029/2024JG008057>
+
+Woelmer, W. M., Thomas, R. Q., **Olsson, F.**, Steele, B. G, Weathers, K. C, Carey, C. C., 2024. Process-based forecasts of lake water temperature and dissolved oxygen outperform null models, with variability over time and depth. Ecol. Inform., 83, 102825  <https://doi.org/10.1016/j.ecoinf.2024.102825>
 
 Lewis, A. S. L., Breef‐Pilz, A., Howard, D. W., Lofton, M. E., **Olsson, F.**, Wander, H. L., et al, 2024. Reservoir Drawdown Highlights the Emergent Effects of Water Level Change on Reservoir Physics, Chemistry, and Biology. J. Geophys. Res.-Biogeo, 129(2). <https://doi.org/10.1029/2023JG007780>
 
