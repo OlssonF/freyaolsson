@@ -7,6 +7,8 @@ editor: visual
 
 **Olsson, F.**, Carey, C. C., Boettiger, C., Harrison, G., Ladwig, R., Lapeyrolerie, M., Lewis, A. S. L., Lofton, M. E., Montetealegre-Mora, F., Rabaey, J. S., Robbins, C. J., Yang, X., Thomas, R. Q. 2024. What can we learn from 100,000 freshwater forecasts? A synthesis from the NEON Ecological Forecasting Challenge. Ecological Applications (In press). <https://doi.org/10.22541/essoar.171458144.44104603/v2>
 
+**Olsson, F.**, Boettiger, C., Carey, C. C., Lofton, M. E., Thomas, R. Q., 2024. Can you predict the future? A tutorial for the National Ecological Observatory Network Ecological Forecasting Challenge. JOSE, 7(82), 259. <https://doi.org/10.21105/jose.00259>
+
 **Olsson, F.**, Mackay, E. B., Spears, B. M., Barker, P., & Jones, I. D., 2024. Interacting impacts of hydrological changes and air temperature warming on lake temperatures highlight the potential for adaptive management. Ambio. <https://doi.org/10.1007/s13280-024-02015-6>
 
 **Olsson, F.**, Moore, T. N., Carey, C. C., Breef‐Pilz, A., & Thomas, R. Q., 2024. A Multi‐Model Ensemble of Baseline and Process‐Based Models Improves the Predictive Skill of Near‐Term Lake Forecasts. Water Resour. Res., 60(3). <https://doi.org/10.1029/2023WR035901>
