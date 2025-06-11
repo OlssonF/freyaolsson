@@ -25,8 +25,8 @@ BSc (Hons) Biology-Geography Joint Honors (within Natural Sciences) - 1st Class 
 #### Postdoctoral researcher -- Virginia Tech \| June 2022 - present
 
 |  |  |
-|:--:|----|
-| ![](images/VTCEF.jpg){fig-align="left" width="159" height="73"} | As part of the VT Center for Ecosystem Forecasting, I have worked on a range of freshwater forecasting projects including [using multi-model ensembles to improve lake temperature forecasting](https://doi.org/10.1029/2023WR035901), [large-scale synthesis of \>100,000 forecasts](http://dx.doi.org/10.22541/essoar.171458144.44104603/v2) from the Aquatics theme of the NEON Forecasting Challenge (in press), and [design and delivery of forecasting tutorials](publications.html#tutorials) that guide individuals through the development and implementation of simple forecasting workflows. |
+|:----------------------------------:|------------------------------------|
+| ![](images/VTCEF.jpg){fig-align="left" width="159" height="73"} | As part of the VT Center for Ecosystem Forecasting, I have worked on a range of freshwater forecasting projects including [using multi-model ensembles to improve lake temperature forecasting](https://doi.org/10.1029/2023WR035901), [large-scale synthesis of \>100,000 forecasts](https://doi.org/10.1002/eap.70004) from the Aquatics theme of the NEON Forecasting Challenge (in press), and [design and delivery of forecasting tutorials](publications.html#tutorials) that guide individuals through the development and implementation of simple forecasting workflows. |
 
 #### Research assistant -- Lancaster University, UK \| Apr 2022 - May 2022
 
