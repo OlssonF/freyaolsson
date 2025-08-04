@@ -5,7 +5,7 @@ editor: visual
 
 ### Journal articles
 
-**Olsson, F.**, Carey, C. C., Boettiger, C., Harrison, G., Ladwig, R., Lapeyrolerie, M. F., et al., 2025. What can we learn from 100,000 freshwater forecasts? A synthesis from the NEON Ecological Forecasting Challenge. Ecol. Appl., 35(1), 1–22. <https://doi.org/10.1002/eap.70004>
+**Olsson, F.**, Carey, C. C., Boettiger, C., Harrison, G., Ladwig, R., Lapeyrolerie, M. F., et al., 2025. What can we learn from 100,000 freshwater forecasts? A synthesis from the NEON Ecological Forecasting Challenge. Ecol. Appl., 35(1), e70004. <https://doi.org/10.1002/eap.70004>
 
 **Olsson, F**., Mackay, E. B., Spears, B. M., Barker, P., & Jones, I. D., 2025. Interacting impacts of hydrological changes and air temperature warming on lake temperatures highlight the potential for adaptive management. Ambio, 54(3), 402–415. <https://doi.org/10.1007/s13280-024-02015-6>
 
