@@ -5,9 +5,12 @@ editor: visual
 
 ### Journal articles
 
+
 **Olsson, F.**, Carey, C. C., Boettiger, C., Harrison, G., Ladwig, R., Lapeyrolerie, M. F., et al., 2025. What can we learn from 100,000 freshwater forecasts? A synthesis from the NEON Ecological Forecasting Challenge. Ecol. Appl., 35(1), e70004. <https://doi.org/10.1002/eap.70004>
 
 **Olsson, F**., Mackay, E. B., Spears, B. M., Barker, P., & Jones, I. D., 2025. Interacting impacts of hydrological changes and air temperature warming on lake temperatures highlight the potential for adaptive management. Ambio, 54(3), 402–415. <https://doi.org/10.1007/s13280-024-02015-6>
+
+Exley, G., Page, T., **Olsson, F.**, Thackeray, S. J., Chipps, M. J., Armstrong, A., Folkard, A. M., 2025. Modelling of the potential of floating photovoltaics for mitigating climate change impacts on reservoirs. Knowl. Manag. Aquat. Ecosyst. 2025, 426 (26). <https://doi.org/10.1051/kmae/2025021>
 
 **Olsson, F.**, Boettiger, C., Carey, C. C., Lofton, M. E., Thomas, R. Q., 2024. Can you predict the future? A tutorial for the National Ecological Observatory Network Ecological Forecasting Challenge. JOSE, 7(82), 259. <https://doi.org/10.21105/jose.00259>
 
