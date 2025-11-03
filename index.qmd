@@ -16,7 +16,7 @@ about:
       href: mailto:freya.olsson@ru.nl
       icon: "envelope"
     - text: Google Scholar
-      href: https://scholar.google.com/citations?user=U84Ap8YAAAAJ&hl=en&oi=ao
+      href: https://scholar.google.com/citations?hl=en&user=F1EvjUoAAAAJ
       icon: "newspaper"
 ---
 
